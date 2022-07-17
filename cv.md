@@ -12,7 +12,7 @@
 
 ### [the code example](https://habr.com/ru/company/vdsina/blog/563432/)
 ***
-![My photo](/images/hero.jpg 'Ja')
+![My photo](./images/hero.jpg 'Ja')
 ***
 
 
